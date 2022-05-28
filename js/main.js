@@ -1,3 +1,4 @@
+alert("Presione f12 para abrir la consola y visualizar los resultados");
 class Producto {
   constructor(nombre, precio, id) {
     this.nombre = nombre;
